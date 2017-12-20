@@ -1,5 +1,5 @@
 # Computer-Vision-CSE527
-Computer Vision Fall 2017 homeworks
+Computer Vision Fall 2017 homeworks <br />
 HW1 - Histograms, Filters, Deconvolution, Blending
         - Perform histogram equalization on color image
         - Do highpass and low pass filtering in frequency domain
